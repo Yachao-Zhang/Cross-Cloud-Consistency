@@ -26,12 +26,12 @@ Citation:
 If you find our approach useful in your research, please consider citing:
 
 ```
-@article{zhang2022,
-  author={Zhang, Yachao; Lan, Yuxiang; Xie, Yuan; Li, Cuihua; Qu, Yanyun},
+@article{zhang2025,
+  author={Zhang, Yachao and Lan, Yuxiang and Xie, Yuan and Li, Cuihua and Qu, Yanyun},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Cross-Cloud Consistency for Weakly Supervised Point Cloud Semantic Segmentation}, 
-  year={2024},
+  year={2025},
   volume={},
   number={},
-  pages={1-13}}
+  pages={1-12}}
 ```
